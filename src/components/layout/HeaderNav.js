@@ -8,9 +8,7 @@ export const HeaderNav = () => {
             <span>J</span>
             <h3>Jared Marquez</h3>
 
-        </div>
-        
-        <nav>
+<nav>
             <ul>
                
                 <li>
@@ -23,6 +21,11 @@ export const HeaderNav = () => {
                
             </ul>
         </nav>
+
+
+        </div>
+        
+        
         
     </header>
   )
