@@ -9,8 +9,8 @@ export const trabajos = [
     {
         'id' : 'blog',
         'nombre' : 'Blogea',
-        'url' : 'https://illustrious-chimera-af1dcc.netlify.app/',
-        'tecnologias' : 'React, JavaScript, HTML, CSS, node js',
-        'descripcion' : 'lorem'
+        'url' : 'https://cool-sopapillas-9b7186.netlify.app/',
+        'tecnologias' : 'React, JavaScript, HTML, CSS, NodeJS y MySQL',
+        'descripcion' : 'Se llevo acabo el desarrollo de la parte front utilizando React JS y se desarrollo la api utilizando NodeJS y MySQL'
       }
 ];
