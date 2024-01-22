@@ -19,6 +19,7 @@ export const Proyecto = () => {
         <p>{proyecto.tecnologias}</p>
         <p>{proyecto.descripcion}</p>
         <a href={proyecto.url} target="_blank" rel="noreferrer">Ir al proyecto</a>
+        <a href={proyecto.repo} target="_blank" rel="noreferrer">Ir al repositorio</a>
         <div className="mask">
                   <img src={"/images/" + proyecto.id + ".png"} alt={proyecto.nombre} />
                 </div>
